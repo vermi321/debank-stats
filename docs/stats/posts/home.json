@@ -1,4 +1,5 @@
 {
+    "request_url": "https://debank.com/profile/0x4c81c1d6fb83f063ccc7eb50400569bf830b5492/stream",
     "reports": [
         {
             "user_id": "0x4c81c1d6fb83f063ccc7eb50400569bf830b5492",
@@ -7,7 +8,7 @@
             "posts": 100,
             "following": 677,
             "unique_users": 4450,
-            "background_color": "#d90e16",
+            "background_color": "#ffcbcd",
             "avatar_url": "https://static.debank.com/image/user/user_avatar/2715fb018819a9b3625b0c1a41dbc64b.png"
         },
         {
@@ -17,7 +18,7 @@
             "posts": 93,
             "following": 961,
             "unique_users": 5968,
-            "background_color": "#23814b",
+            "background_color": "#caf1da",
             "avatar_url": "https://static.debank.com/image/user/logo/0x4e5ed30e3b4eb39abce3c150f31e180a3ae5806e/3cf79e0ce720c71b3f0fa1ca4b77d1a4.png"
         },
         {
@@ -27,7 +28,7 @@
             "posts": 100,
             "following": 828,
             "unique_users": 2559,
-            "background_color": "#000",
+            "background_color": "#c9c9c9",
             "avatar_url": "https://static.debank.com/image/user/logo/0x33c36dd8ee2fc8b8c106e700f093c7b971eb8a70/87d52ad4a29863f33ae5344002613367.png"
         },
         {
@@ -37,7 +38,7 @@
             "posts": 100,
             "following": 705,
             "unique_users": 2696,
-            "background_color": "#b7967f",
+            "background_color": "#f4e1d4",
             "avatar_url": "https://static.debank.com/image/user/logo/0x4070e40fc3e382437ab7bac2249205d276bdd15a/1f82a5af636f5806beb05b98c6b7f3fc.png"
         },
         {
@@ -47,7 +48,7 @@
             "posts": 30,
             "following": 663,
             "unique_users": 2045,
-            "background_color": "#010101",
+            "background_color": "#cecece",
             "avatar_url": "https://static.debank.com/image/user/user_avatar/36342af2dba0d3b4deb4e95f29f763e2.jpeg"
         }
     ]
