@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/debank-stats/static/css/main.931f5f7b.css",
-    "main.js": "/debank-stats/static/js/main.84c8e88a.js",
+    "main.js": "/debank-stats/static/js/main.ec3a5bbd.js",
     "static/media/logo.png": "/debank-stats/static/media/logo.1561ba37c4734f49193d.png",
     "static/media/error.png": "/debank-stats/static/media/error.34eb767726d1b628bef3.png",
     "static/media/roboto-latin-500-normal.woff2": "/debank-stats/static/media/roboto-latin-500-normal.f25d774ecfe0996f8eb5.woff2",
@@ -64,6 +64,6 @@
   },
   "entrypoints": [
     "static/css/main.931f5f7b.css",
-    "static/js/main.84c8e88a.js"
+    "static/js/main.ec3a5bbd.js"
   ]
 }
