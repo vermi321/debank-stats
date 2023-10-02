@@ -1,5 +1,7 @@
 {
-    "request_url": "https://debank.com/profile/0x4c81c1d6fb83f063ccc7eb50400569bf830b5492/stream",
+    "mint_url": "https://bit.ly/debank-stats-report-pass",
+    "hi_url": "https://debank.com/hi/0x4c81c1d6fb83f063ccc7eb50400569bf830b5492",
+    "comment_url": "",
     "reports": [
         {
             "user_id": "0x4c81c1d6fb83f063ccc7eb50400569bf830b5492",
